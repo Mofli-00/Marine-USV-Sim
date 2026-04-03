@@ -1,0 +1,17 @@
+# Unity 生成的缓存文件夹（不需要上传）
+Library/
+Temp/
+Logs/
+UserSettings/
+Obj/
+Build/
+Builds/
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.sln
+
+# OS 文件
+.DS_Store
+Thumbs.db

@@ -1,25 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:yousandi.cn,2023:
---- !u!1200 &1
-AutoStreamingSettings:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  mSearchMode: 15
-  mCustomSearchFile: 
-  mTextureSearchString: 
-  mMeshSearchString: 
-  mTextures: []
-  mAudios: []
-  mMeshes: []
-  mAnimations: []
-  mSharedSceneAssets: []
-  mScenes: []
-  mConfigCCD:
-    useCCD: 0
-    uosSecret: 
-    uosAppid: 
-    bucketUuid: 
-    bucketName: 
-    badgeName: 
-    ttAppid: 
-    targetPlatfrom: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:633449afaf3098c9e510751cbb95c2d4067ce851d5c15faa7244286fd23d46c2
+size 482

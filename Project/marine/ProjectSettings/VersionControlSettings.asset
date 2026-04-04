@@ -1,8 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:yousandi.cn,2023:
---- !u!890905787 &1
-VersionControlSettings:
-  m_ObjectHideFlags: 0
-  m_Mode: Visible Meta Files
-  m_CollabEditorSettings:
-    inProgressEnabled: 1
+version https://git-lfs.github.com/spec/v1
+oid sha256:751747945d345932f94d35f682061bf3bb15784d841543664183bbbf1436519a
+size 196

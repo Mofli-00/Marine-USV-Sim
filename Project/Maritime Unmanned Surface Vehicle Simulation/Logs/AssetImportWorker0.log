@@ -215,3 +215,313 @@ Received Import Request.
   artifactKey: Guid(7e255a104e2f1bc4d865519bb0c2bf48) Importer(PreviewImporter)
 Start importing Assets/New Terrain 1.asset using Guid(7e255a104e2f1bc4d865519bb0c2bf48) Importer(PreviewImporter)  -> (artifact id: '94ad6b0d0427d762ec20e68953beca51') in 0.007408 seconds
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 942.391247 seconds.
+  path: Assets/New Terrain 1.asset
+  artifactKey: Guid(7e255a104e2f1bc4d865519bb0c2bf48) Importer(PreviewImporter)
+Start importing Assets/New Terrain 1.asset using Guid(7e255a104e2f1bc4d865519bb0c2bf48) Importer(PreviewImporter)  -> (artifact id: '572c7d05709da7160d3ab2b83f580eda') in 0.005233 seconds
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 185.988611 seconds.
+  path: Assets/Textures/NewLayer.terrainlayer
+  artifactKey: Guid(3504710001946fb4fb84bf5b5a978266) Importer(PreviewImporter)
+Start importing Assets/Textures/NewLayer.terrainlayer using Guid(3504710001946fb4fb84bf5b5a978266) Importer(PreviewImporter)  -> (artifact id: '7dde5c3facfe40aec2c099e74e084a3c') in 0.070896 seconds
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.317918 seconds.
+  path: Assets/Textures/rocks.jpg
+  artifactKey: Guid(ccff0b97ec41d624ba9df9a36a26169a) Importer(PreviewImporter)
+Start importing Assets/Textures/rocks.jpg using Guid(ccff0b97ec41d624ba9df9a36a26169a) Importer(PreviewImporter)  -> (artifact id: '01251313c04f7cd6039ee84b1ceea413') in 0.057742 seconds
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 115.901681 seconds.
+  path: Assets/Models/Grass.png
+  artifactKey: Guid(90b5382a5f0674a4ba704c8b6e4c99f0) Importer(PreviewImporter)
+Start importing Assets/Models/Grass.png using Guid(90b5382a5f0674a4ba704c8b6e4c99f0) Importer(PreviewImporter)  -> (artifact id: 'bdcd868908c19f8bf7eab544c38238df') in 0.007735 seconds
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.111680 seconds.
+  path: Assets/Models/Grass_Opacity.png
+  artifactKey: Guid(6f80329c7fd16974485e928d7e16e882) Importer(PreviewImporter)
+Start importing Assets/Models/Grass_Opacity.png using Guid(6f80329c7fd16974485e928d7e16e882) Importer(PreviewImporter)  -> (artifact id: 'fe0ee4d5061500a1be34d56099d5919e') in 0.009013 seconds
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Models/Grass_Roughness.png
+  artifactKey: Guid(2996b2a8486874d498b0a70d176700ee) Importer(PreviewImporter)
+Start importing Assets/Models/Grass_Roughness.png using Guid(2996b2a8486874d498b0a70d176700ee) Importer(PreviewImporter)  -> (artifact id: 'b287e903f519d32eb468fcf53d093c86') in 0.012391 seconds
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Alstra Infinite/Boats LowPoly/Texture/Texture8x8.png
+  artifactKey: Guid(b436f30706f17e44581969d00a2f1cc0) Importer(PreviewImporter)
+Start importing Assets/Alstra Infinite/Boats LowPoly/Texture/Texture8x8.png using Guid(b436f30706f17e44581969d00a2f1cc0) Importer(PreviewImporter)  -> (artifact id: '4b19121fb44e9ab350a399d3d3891896') in 0.044474 seconds
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Alstra Infinite/Boats LowPoly/Texture/PolyPackBoats.png
+  artifactKey: Guid(b868d378da93586499669ee7a20385eb) Importer(PreviewImporter)
+Start importing Assets/Alstra Infinite/Boats LowPoly/Texture/PolyPackBoats.png using Guid(b868d378da93586499669ee7a20385eb) Importer(PreviewImporter)  -> (artifact id: '29cf8a94438e8091d202d45907677870') in 0.010279 seconds
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Models/Grass 2K.png
+  artifactKey: Guid(361131e6bfac09047bebf5954b261843) Importer(PreviewImporter)
+Start importing Assets/Models/Grass 2K.png using Guid(361131e6bfac09047bebf5954b261843) Importer(PreviewImporter)  -> (artifact id: 'b9f5be225f47a5f370adf4efda89db36') in 0.012241 seconds
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/TutorialInfo/Icons/Help_Icon.png
+  artifactKey: Guid(9266273b8f123004195741f969177dda) Importer(PreviewImporter)
+Start importing Assets/TutorialInfo/Icons/Help_Icon.png using Guid(9266273b8f123004195741f969177dda) Importer(PreviewImporter)  -> (artifact id: '4cc04192150b7cb5e068dbe3c84b443d') in 0.022324 seconds
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/TutorialInfo/Icons/HDRP.png
+  artifactKey: Guid(d19680cd422524695938fbe55cc3b3bd) Importer(PreviewImporter)
+Start importing Assets/TutorialInfo/Icons/HDRP.png using Guid(d19680cd422524695938fbe55cc3b3bd) Importer(PreviewImporter)  -> (artifact id: 'c89ae65d23ebff06f8265cdd221bb2c7') in 0.012659 seconds
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Models/Grass_Normal.png
+  artifactKey: Guid(04a255e9e629e714daff58dbbfb87dbb) Importer(PreviewImporter)
+Start importing Assets/Models/Grass_Normal.png using Guid(04a255e9e629e714daff58dbbfb87dbb) Importer(PreviewImporter)  -> (artifact id: '3075caabd8cc1ee983040a3305546a77') in 0.025619 seconds
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Textures/sand.jpg
+  artifactKey: Guid(9f2388359f3dbb74aae95beccb44acf0) Importer(PreviewImporter)
+Start importing Assets/Textures/sand.jpg using Guid(9f2388359f3dbb74aae95beccb44acf0) Importer(PreviewImporter)  -> (artifact id: '7cf5887b3890fcc207491fc4bbeb6b6b') in 0.030281 seconds
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 733.189047 seconds.
+  path: Assets/NewLayer.terrainlayer
+  artifactKey: Guid(166b967ae5192bf4ca1e0fe7e541d279) Importer(PreviewImporter)
+Start importing Assets/NewLayer.terrainlayer using Guid(166b967ae5192bf4ca1e0fe7e541d279) Importer(PreviewImporter)  -> (artifact id: 'c3e34b8df800425e5de67da871030933') in 0.038169 seconds
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 191.546711 seconds.
+  path: Assets/Models/LowPoly Grass.fbx
+  artifactKey: Guid(1bd489110ddef2743907b62a955e6903) Importer(PreviewImporter)
+Start importing Assets/Models/LowPoly Grass.fbx using Guid(1bd489110ddef2743907b62a955e6903) Importer(PreviewImporter)  -> (artifact id: 'f654d6cb5d6fca158166c22e2718204e') in 0.272844 seconds
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+IOException: Sharing violation on path D:\Unity_Hub\projects\Marine-USV-Sim\Project\Maritime Unmanned Surface Vehicle Simulation\ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <49f623f1343b4d088676d72f091692c8>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.IO.FileOptions options) [0x00000] in <49f623f1343b4d088676d72f091692c8>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare,int,System.IO.FileOptions)
+  at System.IO.StreamWriter..ctor (System.String path, System.Boolean append, System.Text.Encoding encoding, System.Int32 bufferSize) [0x00055] in <49f623f1343b4d088676d72f091692c8>:0 
+  at System.IO.StreamWriter..ctor (System.String path) [0x00008] in <49f623f1343b4d088676d72f091692c8>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter..ctor(string)
+  at System.IO.File.WriteAllText (System.String path, System.String contents) [0x00026] in <49f623f1343b4d088676d72f091692c8>:0 
+  at UnityEditor.SettingsManagement.FileSettingsRepository.Save () [0x000e2] in .\Library\PackageCache\com.unity.settings-manager@2.1.0\Editor\FileSettingsRepository.cs:152 
+  at UnityEditor.AssemblyReloadEvents.OnBeforeAssemblyReload () [0x00017] in <4a60f25ec8a5418d9cdb0c5852e24bd7>:0 
+
+(Filename: ./Library/PackageCache/com.unity.settings-manager@2.1.0/Editor/FileSettingsRepository.cs Line: 152)
+
+Culling group was not disposed. You have to call Dispose explicitly from the main thread. This will likely result in a crash.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.CullingGroup:Finalize ()
+
+[C:\b\o\dev\tj\Runtime\Export\Camera\CullingGroup.bindings.cpp line 70]
+
+- Loaded All Assemblies, in  0.697 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.728 seconds
+Domain Reload Profiling: 2424ms
+	BeginReloadAssembly (312ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (54ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (79ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (308ms)
+		LoadAssemblies (404ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (21ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (1728ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (533ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (65ms)
+			ProcessInitializeOnLoadAttributes (431ms)
+			ProcessInitializeOnLoadMethodAttributes (23ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (54ms)
+Refreshing native plugins compatible for Editor in 5.58 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6346 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 43 unused Assets / (3.6 MB). Loaded Objects now: 7369.
+Memory consumption went from 243.4 MB to 239.8 MB.
+Total: 4.848000 ms (FindLiveObjects: 0.359900 ms CreateObjectMapping: 0.141500 ms MarkObjects: 3.853700 ms  DeleteObjects: 0.491400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 299a746012abc5adb0180d4ccda8d3ad -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.522 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.603 seconds
+Domain Reload Profiling: 2125ms
+	BeginReloadAssembly (211ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (33ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (24ms)
+	LoadAllAssembliesAndSetupDomain (246ms)
+		LoadAssemblies (366ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (23ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1604ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (534ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (61ms)
+			ProcessInitializeOnLoadAttributes (441ms)
+			ProcessInitializeOnLoadMethodAttributes (23ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (61ms)
+Refreshing native plugins compatible for Editor in 7.02 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6340 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 43 unused Assets / (3.6 MB). Loaded Objects now: 7373.
+Memory consumption went from 242.2 MB to 238.6 MB.
+Total: 4.377300 ms (FindLiveObjects: 0.383000 ms CreateObjectMapping: 0.193700 ms MarkObjects: 3.182600 ms  DeleteObjects: 0.616500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 299a746012abc5adb0180d4ccda8d3ad -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.537 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.584 seconds
+Domain Reload Profiling: 2120ms
+	BeginReloadAssembly (228ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (248ms)
+		LoadAssemblies (382ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (22ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (1585ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (536ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (61ms)
+			ProcessInitializeOnLoadAttributes (445ms)
+			ProcessInitializeOnLoadMethodAttributes (19ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (48ms)
+Refreshing native plugins compatible for Editor in 7.54 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6340 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 43 unused Assets / (3.6 MB). Loaded Objects now: 7377.
+Memory consumption went from 242.4 MB to 238.8 MB.
+Total: 5.263500 ms (FindLiveObjects: 0.428500 ms CreateObjectMapping: 0.142100 ms MarkObjects: 4.264700 ms  DeleteObjects: 0.427100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 299a746012abc5adb0180d4ccda8d3ad -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 

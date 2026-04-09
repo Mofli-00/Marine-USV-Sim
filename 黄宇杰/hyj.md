@@ -4,9 +4,9 @@
 
 ---
 
-## 1. 今日完成工作 (Tasks Accomplished)
+## 1. 今日完成工作 
 
-### 🚢 船只资产集成 (Vessel Assets)
+### 🚢 船只资产集成 
 完成了以下 5 类船只模型的初步导入与适配：
 * **Scout Boat (`boat`)**: 基础巡逻艇。
 * **Fishing Boat (`fishing_boat`)**: 渔船模型。
@@ -14,7 +14,7 @@
 * **Trawler (`trawler`)**: 拖网渔船。
 * **Wrecked Motorboat (`wreck-of-a-white-motorboat`)**: 废弃电机船，用于障碍物避障场景。
 
-### 🌴 环境与植被资产 (Environment Assets)
+### 🌴 环境与植被资产 
 为了完善港口/岸线仿真，引入了以下植被模型：
 * **Palm Trees (`free-game-ready-palm`)**: 热带岸线棕榈树。
 * **High-poly & Realistic Trees**: 高精度及写实风格树木，用于近景视觉验证。
@@ -53,9 +53,10 @@
 - [ ] 挂载水动力浮力脚本（需配合 Ocean 插件）。
 - [ ] 预留雷达/摄像头安装点位。
 
-4.3 在unity assetstore和Quixel中寻找项目中需要的船体 树木 花草等
+4.3 
+在unity assetstore和Quixel中寻找项目中需要的船体 树木 花草等
 
-    由于技术原因 目前还没有做好适配工作 争取在下周解决该问题 并找到些更好的模型
+由于技术原因 目前还没有做好适配工作 争取在下周解决该问题 并找到些更好的模型
 
 <img width="450" height="228" alt="image" src="https://github.com/user-attachments/assets/250a6bdf-5e29-471c-b40e-7eeb929e8e21" />
 <img width="465" height="246" alt="image" src="https://github.com/user-attachments/assets/7f50a418-de14-45e8-a8f6-c33c0d3ab65e" />

@@ -45,4 +45,4 @@ git lfs pull
    假设输出是 * feature-assets，那么你就写：git push origin feature-assets。
 
 
-   ##注：后续若有有关资源配置的问题 也会在此文档中说明
+   注：后续若有有关资源配置的问题 也会在此文档中说明

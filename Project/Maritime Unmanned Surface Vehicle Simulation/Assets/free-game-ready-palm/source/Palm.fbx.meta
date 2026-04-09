@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: DntJsSv+Uy4eyXR2BuOUiWiwL7MQDQK23QdoAZldjnqvODkSVXmax/c=
+ModelImporter:
+  serializedVersion: 22361
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    aCLCompressionLevel: 3
+    aCLCurvePrecision: 0.01
+    aCLFastSampleMode: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+    tuanjieGIEnable: 0
+    tuanjieGIGenSDFFactor: 1
+    tuanjieGIGenSDFBias: 0.25
+    tuanjieGIDoubleSidedMode: 0
+    tuanjieGIGenFacetNums: 12
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    totalVerticesCount: 3428
+    totalTrianglesCount: 3392
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  virtualGeometry:
+    virtualGeometry: 0
+    hasBoneWeight: 0
+    useTransparent: 0
+    setVGForeachMesh: 0
+    isFirstUse: 1
+    virtualGeometrySettings:
+      generateGeometryBuffer: 0
+      surfaceCompensation: 0
+      allMeshUse: 1
+      ignoreSimpleMesh: 0
+      transformScaleState: 0
+      isPossibleOverflow: 0
+    virtualGeometryPlatformSettings: []
+    selectedVGMeshes:
+    - index: 0
+      meshName: PalmBark
+      meshGeometryBuffer: 0
+    - index: 1
+      meshName: PalmLeaf
+      meshGeometryBuffer: 0
+    - index: 2
+      meshName: PalmLeaf.001
+      meshGeometryBuffer: 0
+    - index: 3
+      meshName: PalmLeaf.002
+      meshGeometryBuffer: 0
+    - index: 4
+      meshName: PalmLeaf.003
+      meshGeometryBuffer: 0
+    - index: 5
+      meshName: PalmLeaf.004
+      meshGeometryBuffer: 0
+    - index: 6
+      meshName: PalmLeaf.005
+      meshGeometryBuffer: 0
+    - index: 7
+      meshName: PalmLeaf.006
+      meshGeometryBuffer: 0
+    - index: 8
+      meshName: PalmLeaf.007
+      meshGeometryBuffer: 0
+    - index: 9
+      meshName: PalmLeaf.008
+      meshGeometryBuffer: 0
+    - index: 10
+      meshName: PalmLeaf.009
+      meshGeometryBuffer: 0
+    - index: 11
+      meshName: PalmLeaf.010
+      meshGeometryBuffer: 0
+    - index: 12
+      meshName: PalmLeaf.011
+      meshGeometryBuffer: 0
+    - index: 13
+      meshName: PalmLeaf.012
+      meshGeometryBuffer: 0
+    - index: 14
+      meshName: PalmLeaf.013
+      meshGeometryBuffer: 0
+    - index: 15
+      meshName: PalmLeaf.014
+      meshGeometryBuffer: 0
+    - index: 16
+      meshName: PalmLeaf.015
+      meshGeometryBuffer: 0
+    - index: 17
+      meshName: PalmLeaf.016
+      meshGeometryBuffer: 0
+    - index: 18
+      meshName: PalmLeaf.017
+      meshGeometryBuffer: 0
+    - index: 19
+      meshName: PalmLeaf.018
+      meshGeometryBuffer: 0
+    - index: 20
+      meshName: PalmLeaf.019
+      meshGeometryBuffer: 0
+    - index: 21
+      meshName: PalmLeaf.020
+      meshGeometryBuffer: 0
+    - index: 22
+      meshName: PalmLeaf.021
+      meshGeometryBuffer: 0
+    - index: 23
+      meshName: PalmLeaf.022
+      meshGeometryBuffer: 0
+    - index: 24
+      meshName: PalmLeaf.023
+      meshGeometryBuffer: 0
+    - index: 25
+      meshName: PalmLeaf.024
+      meshGeometryBuffer: 0
+    - index: 26
+      meshName: PalmLeaf.025
+      meshGeometryBuffer: 0
+    - index: 27
+      meshName: PalmLeaf.026
+      meshGeometryBuffer: 0
+    - index: 28
+      meshName: PalmLeaf.027
+      meshGeometryBuffer: 0
+    - index: 29
+      meshName: PalmLeaf.028
+      meshGeometryBuffer: 0
+    - index: 30
+      meshName: PalmLeaf.029
+      meshGeometryBuffer: 0
+    - index: 31
+      meshName: PalmLeaf.030
+      meshGeometryBuffer: 0
+    - index: 32
+      meshName: PalmLeaf.031
+      meshGeometryBuffer: 0
+    - index: 33
+      meshName: PalmLeaf.032
+      meshGeometryBuffer: 0
+    - index: 34
+      meshName: PalmLeaf.033
+      meshGeometryBuffer: 0
+    - index: 35
+      meshName: PalmLeaf.034
+      meshGeometryBuffer: 0
+    - index: 36
+      meshName: PalmLeaf.035
+      meshGeometryBuffer: 0
+    - index: 37
+      meshName: PalmLeaf.036
+      meshGeometryBuffer: 0
+    - index: 38
+      meshName: PalmLeaf.037
+      meshGeometryBuffer: 0
+    - index: 39
+      meshName: PalmLeaf.038
+      meshGeometryBuffer: 0
+    - index: 40
+      meshName: PalmLeaf.039
+      meshGeometryBuffer: 0
+    - index: 41
+      meshName: PalmLeaf.040
+      meshGeometryBuffer: 0
+    - index: 42
+      meshName: PalmLeaf.041
+      meshGeometryBuffer: 0
+    - index: 43
+      meshName: PalmLeaf.042
+      meshGeometryBuffer: 0
+    - index: 44
+      meshName: PalmLeaf.043
+      meshGeometryBuffer: 0
+    - index: 45
+      meshName: PalmLeaf.044
+      meshGeometryBuffer: 0
+    - index: 46
+      meshName: PalmLeaf.045
+      meshGeometryBuffer: 0
+    - index: 47
+      meshName: PalmLeaf.046
+      meshGeometryBuffer: 0
+    - index: 48
+      meshName: PalmLeaf.047
+      meshGeometryBuffer: 0
+    - index: 49
+      meshName: PalmLeaf.048
+      meshGeometryBuffer: 0
+    - index: 50
+      meshName: PalmLeaf.049
+      meshGeometryBuffer: 0
+    - index: 51
+      meshName: PalmLeaf.050
+      meshGeometryBuffer: 0
+    - index: 52
+      meshName: PalmLeaf.051
+      meshGeometryBuffer: 0
+    - index: 53
+      meshName: PalmLeaf.052
+      meshGeometryBuffer: 0
+    - index: 54
+      meshName: PalmLeaf.053
+      meshGeometryBuffer: 0
+    - index: 55
+      meshName: PalmLeaf.054
+      meshGeometryBuffer: 0
+    - index: 56
+      meshName: PalmLeaf.055
+      meshGeometryBuffer: 0
+    - index: 57
+      meshName: PalmLeaf.056
+      meshGeometryBuffer: 0
+    - index: 58
+      meshName: PalmLeaf.057
+      meshGeometryBuffer: 0
+    - index: 59
+      meshName: PalmLeaf.058
+      meshGeometryBuffer: 0
+    - index: 60
+      meshName: PalmLeaf.059
+      meshGeometryBuffer: 0
+    - index: 61
+      meshName: PalmLeaf.060
+      meshGeometryBuffer: 0
+    - index: 62
+      meshName: PalmLeaf.061
+      meshGeometryBuffer: 0
+    - index: 63
+      meshName: PalmLeaf.062
+      meshGeometryBuffer: 0
+    - index: 64
+      meshName: PalmLeaf.063
+      meshGeometryBuffer: 0
+    supportVGMeshes:
+    - index: 0
+      meshName: PalmBark
+      meshGeometryBuffer: 0
+    - index: 1
+      meshName: PalmLeaf
+      meshGeometryBuffer: 0
+    - index: 2
+      meshName: PalmLeaf.001
+      meshGeometryBuffer: 0
+    - index: 3
+      meshName: PalmLeaf.002
+      meshGeometryBuffer: 0
+    - index: 4
+      meshName: PalmLeaf.003
+      meshGeometryBuffer: 0
+    - index: 5
+      meshName: PalmLeaf.004
+      meshGeometryBuffer: 0
+    - index: 6
+      meshName: PalmLeaf.005
+      meshGeometryBuffer: 0
+    - index: 7
+      meshName: PalmLeaf.006
+      meshGeometryBuffer: 0
+    - index: 8
+      meshName: PalmLeaf.007
+      meshGeometryBuffer: 0
+    - index: 9
+      meshName: PalmLeaf.008
+      meshGeometryBuffer: 0
+    - index: 10
+      meshName: PalmLeaf.009
+      meshGeometryBuffer: 0
+    - index: 11
+      meshName: PalmLeaf.010
+      meshGeometryBuffer: 0
+    - index: 12
+      meshName: PalmLeaf.011
+      meshGeometryBuffer: 0
+    - index: 13
+      meshName: PalmLeaf.012
+      meshGeometryBuffer: 0
+    - index: 14
+      meshName: PalmLeaf.013
+      meshGeometryBuffer: 0
+    - index: 15
+      meshName: PalmLeaf.014
+      meshGeometryBuffer: 0
+    - index: 16
+      meshName: PalmLeaf.015
+      meshGeometryBuffer: 0
+    - index: 17
+      meshName: PalmLeaf.016
+      meshGeometryBuffer: 0
+    - index: 18
+      meshName: PalmLeaf.017
+      meshGeometryBuffer: 0
+    - index: 19
+      meshName: PalmLeaf.018
+      meshGeometryBuffer: 0
+    - index: 20
+      meshName: PalmLeaf.019
+      meshGeometryBuffer: 0
+    - index: 21
+      meshName: PalmLeaf.020
+      meshGeometryBuffer: 0
+    - index: 22
+      meshName: PalmLeaf.021
+      meshGeometryBuffer: 0
+    - index: 23
+      meshName: PalmLeaf.022
+      meshGeometryBuffer: 0
+    - index: 24
+      meshName: PalmLeaf.023
+      meshGeometryBuffer: 0
+    - index: 25
+      meshName: PalmLeaf.024
+      meshGeometryBuffer: 0
+    - index: 26
+      meshName: PalmLeaf.025
+      meshGeometryBuffer: 0
+    - index: 27
+      meshName: PalmLeaf.026
+      meshGeometryBuffer: 0
+    - index: 28
+      meshName: PalmLeaf.027
+      meshGeometryBuffer: 0
+    - index: 29
+      meshName: PalmLeaf.028
+      meshGeometryBuffer: 0
+    - index: 30
+      meshName: PalmLeaf.029
+      meshGeometryBuffer: 0
+    - index: 31
+      meshName: PalmLeaf.030
+      meshGeometryBuffer: 0
+    - index: 32
+      meshName: PalmLeaf.031
+      meshGeometryBuffer: 0
+    - index: 33
+      meshName: PalmLeaf.032
+      meshGeometryBuffer: 0
+    - index: 34
+      meshName: PalmLeaf.033
+      meshGeometryBuffer: 0
+    - index: 35
+      meshName: PalmLeaf.034
+      meshGeometryBuffer: 0
+    - index: 36
+      meshName: PalmLeaf.035
+      meshGeometryBuffer: 0
+    - index: 37
+      meshName: PalmLeaf.036
+      meshGeometryBuffer: 0
+    - index: 38
+      meshName: PalmLeaf.037
+      meshGeometryBuffer: 0
+    - index: 39
+      meshName: PalmLeaf.038
+      meshGeometryBuffer: 0
+    - index: 40
+      meshName: PalmLeaf.039
+      meshGeometryBuffer: 0
+    - index: 41
+      meshName: PalmLeaf.040
+      meshGeometryBuffer: 0
+    - index: 42
+      meshName: PalmLeaf.041
+      meshGeometryBuffer: 0
+    - index: 43
+      meshName: PalmLeaf.042
+      meshGeometryBuffer: 0
+    - index: 44
+      meshName: PalmLeaf.043
+      meshGeometryBuffer: 0
+    - index: 45
+      meshName: PalmLeaf.044
+      meshGeometryBuffer: 0
+    - index: 46
+      meshName: PalmLeaf.045
+      meshGeometryBuffer: 0
+    - index: 47
+      meshName: PalmLeaf.046
+      meshGeometryBuffer: 0
+    - index: 48
+      meshName: PalmLeaf.047
+      meshGeometryBuffer: 0
+    - index: 49
+      meshName: PalmLeaf.048
+      meshGeometryBuffer: 0
+    - index: 50
+      meshName: PalmLeaf.049
+      meshGeometryBuffer: 0
+    - index: 51
+      meshName: PalmLeaf.050
+      meshGeometryBuffer: 0
+    - index: 52
+      meshName: PalmLeaf.051
+      meshGeometryBuffer: 0
+    - index: 53
+      meshName: PalmLeaf.052
+      meshGeometryBuffer: 0
+    - index: 54
+      meshName: PalmLeaf.053
+      meshGeometryBuffer: 0
+    - index: 55
+      meshName: PalmLeaf.054
+      meshGeometryBuffer: 0
+    - index: 56
+      meshName: PalmLeaf.055
+      meshGeometryBuffer: 0
+    - index: 57
+      meshName: PalmLeaf.056
+      meshGeometryBuffer: 0
+    - index: 58
+      meshName: PalmLeaf.057
+      meshGeometryBuffer: 0
+    - index: 59
+      meshName: PalmLeaf.058
+      meshGeometryBuffer: 0
+    - index: 60
+      meshName: PalmLeaf.059
+      meshGeometryBuffer: 0
+    - index: 61
+      meshName: PalmLeaf.060
+      meshGeometryBuffer: 0
+    - index: 62
+      meshName: PalmLeaf.061
+      meshGeometryBuffer: 0
+    - index: 63
+      meshName: PalmLeaf.062
+      meshGeometryBuffer: 0
+    - index: 64
+      meshName: PalmLeaf.063
+      meshGeometryBuffer: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  overrideDefaultPose: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    namedPoseList:
+    - name: Default
+      skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    defaultPoseIndex: -1
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

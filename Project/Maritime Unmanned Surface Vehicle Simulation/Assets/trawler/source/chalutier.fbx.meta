@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: Bn4e4HukAXnakMpncd592RLJDUfpUNBrk74/ZspdgomnUSqAD9bPsPc=
+ModelImporter:
+  serializedVersion: 22361
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    aCLCompressionLevel: 3
+    aCLCurvePrecision: 0.01
+    aCLFastSampleMode: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+    tuanjieGIEnable: 0
+    tuanjieGIGenSDFFactor: 1
+    tuanjieGIGenSDFBias: 0.25
+    tuanjieGIDoubleSidedMode: 0
+    tuanjieGIGenFacetNums: 12
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    totalVerticesCount: 733022
+    totalTrianglesCount: 1350170
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  virtualGeometry:
+    virtualGeometry: 0
+    hasBoneWeight: 0
+    useTransparent: 0
+    setVGForeachMesh: 0
+    isFirstUse: 1
+    virtualGeometrySettings:
+      generateGeometryBuffer: 0
+      surfaceCompensation: 0
+      allMeshUse: 1
+      ignoreSimpleMesh: 0
+      transformScaleState: 0
+      isPossibleOverflow: 0
+    virtualGeometryPlatformSettings: []
+    selectedVGMeshes:
+    - index: 0
+      meshName: grue main.002
+      meshGeometryBuffer: 0
+    - index: 1
+      meshName: roof.002
+      meshGeometryBuffer: 0
+    - index: 2
+      meshName: cabin.002
+      meshGeometryBuffer: 0
+    - index: 3
+      meshName: door.002
+      meshGeometryBuffer: 0
+    - index: 4
+      meshName: Solid 612.002
+      meshGeometryBuffer: 0
+    - index: 5
+      meshName: Lofted.003
+      meshGeometryBuffer: 0
+    - index: 6
+      meshName: Extruded.003
+      meshGeometryBuffer: 0
+    - index: 7
+      meshName: Solid 585.002
+      meshGeometryBuffer: 0
+    - index: 8
+      meshName: Extruded.008
+      meshGeometryBuffer: 0
+    - index: 9
+      meshName: Solid.002
+      meshGeometryBuffer: 0
+    - index: 10
+      meshName: poulie 2.002
+      meshGeometryBuffer: 0
+    - index: 11
+      meshName: mat.002
+      meshGeometryBuffer: 0
+    - index: 12
+      meshName: main body anchor.002
+      meshGeometryBuffer: 0
+    - index: 13
+      meshName: tige ancre.002
+      meshGeometryBuffer: 0
+    - index: 14
+      meshName: barre ancre.002
+      meshGeometryBuffer: 0
+    - index: 15
+      meshName: maillon accroche ancre.002
+      meshGeometryBuffer: 0
+    - index: 16
+      meshName: enroul ancre.002
+      meshGeometryBuffer: 0
+    - index: 17
+      meshName: anchor chain.002
+      meshGeometryBuffer: 0
+    - index: 18
+      meshName: bastingage.002
+      meshGeometryBuffer: 0
+    - index: 19
+      meshName: bucket2.002
+      meshGeometryBuffer: 0
+    - index: 20
+      meshName: coffre roof.002
+      meshGeometryBuffer: 0
+    - index: 21
+      meshName: rangement.002
+      meshGeometryBuffer: 0
+    - index: 22
+      meshName: bouees side.002
+      meshGeometryBuffer: 0
+    - index: 23
+      meshName: caisse.006
+      meshGeometryBuffer: 0
+    - index: 24
+      meshName: caisse.007
+      meshGeometryBuffer: 0
+    - index: 25
+      meshName: caisse3.002
+      meshGeometryBuffer: 0
+    - index: 26
+      meshName: caisse5.002
+      meshGeometryBuffer: 0
+    - index: 27
+      meshName: caisse.008
+      meshGeometryBuffer: 0
+    - index: 28
+      meshName: rope1_high.002
+      meshGeometryBuffer: 0
+    - index: 29
+      meshName: chaine_poulie.002
+      meshGeometryBuffer: 0
+    - index: 30
+      meshName: Solid 661.002
+      meshGeometryBuffer: 0
+    - index: 31
+      meshName: floor.002
+      meshGeometryBuffer: 0
+    - index: 32
+      meshName: lamp.002
+      meshGeometryBuffer: 0
+    - index: 33
+      meshName: lamp2.002
+      meshGeometryBuffer: 0
+    - index: 34
+      meshName: armoire.002
+      meshGeometryBuffer: 0
+    - index: 35
+      meshName: armoire 2.002
+      meshGeometryBuffer: 0
+    - index: 36
+      meshName: screen.002
+      meshGeometryBuffer: 0
+    - index: 37
+      meshName: radio.002
+      meshGeometryBuffer: 0
+    - index: 38
+      meshName: bouee safety 2.002
+      meshGeometryBuffer: 0
+    - index: 39
+      meshName: barre.002
+      meshGeometryBuffer: 0
+    - index: 40
+      meshName: gaz.002
+      meshGeometryBuffer: 0
+    - index: 41
+      meshName: tige gaz.002
+      meshGeometryBuffer: 0
+    - index: 42
+      meshName: persiennes D.002
+      meshGeometryBuffer: 0
+    - index: 43
+      meshName: Extruded.009
+      meshGeometryBuffer: 0
+    - index: 44
+      meshName: Extruded.010
+      meshGeometryBuffer: 0
+    - index: 45
+      meshName: Solid 715.002
+      meshGeometryBuffer: 0
+    - index: 46
+      meshName: Extruded.012
+      meshGeometryBuffer: 0
+    - index: 47
+      meshName: Solid 1078.002
+      meshGeometryBuffer: 0
+    - index: 48
+      meshName: bobonne.002
+      meshGeometryBuffer: 0
+    - index: 49
+      meshName: lock3.002
+      meshGeometryBuffer: 0
+    - index: 50
+      meshName: cable.010
+      meshGeometryBuffer: 0
+    - index: 51
+      meshName: cable.011
+      meshGeometryBuffer: 0
+    - index: 52
+      meshName: cable.012
+      meshGeometryBuffer: 0
+    - index: 53
+      meshName: cable.013
+      meshGeometryBuffer: 0
+    - index: 54
+      meshName: cable.014
+      meshGeometryBuffer: 0
+    - index: 55
+      meshName: projecteurs.002
+      meshGeometryBuffer: 0
+    - index: 56
+      meshName: antenne.002
+      meshGeometryBuffer: 0
+    - index: 57
+      meshName: hull.002
+      meshGeometryBuffer: 0
+    - index: 58
+      meshName: glass
+      meshGeometryBuffer: 0
+    supportVGMeshes:
+    - index: 0
+      meshName: grue main.002
+      meshGeometryBuffer: 0
+    - index: 1
+      meshName: roof.002
+      meshGeometryBuffer: 0
+    - index: 2
+      meshName: cabin.002
+      meshGeometryBuffer: 0
+    - index: 3
+      meshName: door.002
+      meshGeometryBuffer: 0
+    - index: 4
+      meshName: Solid 612.002
+      meshGeometryBuffer: 0
+    - index: 5
+      meshName: Lofted.003
+      meshGeometryBuffer: 0
+    - index: 6
+      meshName: Extruded.003
+      meshGeometryBuffer: 0
+    - index: 7
+      meshName: Solid 585.002
+      meshGeometryBuffer: 0
+    - index: 8
+      meshName: Extruded.008
+      meshGeometryBuffer: 0
+    - index: 9
+      meshName: Solid.002
+      meshGeometryBuffer: 0
+    - index: 10
+      meshName: poulie 2.002
+      meshGeometryBuffer: 0
+    - index: 11
+      meshName: mat.002
+      meshGeometryBuffer: 0
+    - index: 12
+      meshName: main body anchor.002
+      meshGeometryBuffer: 0
+    - index: 13
+      meshName: tige ancre.002
+      meshGeometryBuffer: 0
+    - index: 14
+      meshName: barre ancre.002
+      meshGeometryBuffer: 0
+    - index: 15
+      meshName: maillon accroche ancre.002
+      meshGeometryBuffer: 0
+    - index: 16
+      meshName: enroul ancre.002
+      meshGeometryBuffer: 0
+    - index: 17
+      meshName: anchor chain.002
+      meshGeometryBuffer: 0
+    - index: 18
+      meshName: bastingage.002
+      meshGeometryBuffer: 0
+    - index: 19
+      meshName: bucket2.002
+      meshGeometryBuffer: 0
+    - index: 20
+      meshName: coffre roof.002
+      meshGeometryBuffer: 0
+    - index: 21
+      meshName: rangement.002
+      meshGeometryBuffer: 0
+    - index: 22
+      meshName: bouees side.002
+      meshGeometryBuffer: 0
+    - index: 23
+      meshName: caisse.006
+      meshGeometryBuffer: 0
+    - index: 24
+      meshName: caisse.007
+      meshGeometryBuffer: 0
+    - index: 25
+      meshName: caisse3.002
+      meshGeometryBuffer: 0
+    - index: 26
+      meshName: caisse5.002
+      meshGeometryBuffer: 0
+    - index: 27
+      meshName: caisse.008
+      meshGeometryBuffer: 0
+    - index: 28
+      meshName: rope1_high.002
+      meshGeometryBuffer: 0
+    - index: 29
+      meshName: chaine_poulie.002
+      meshGeometryBuffer: 0
+    - index: 30
+      meshName: Solid 661.002
+      meshGeometryBuffer: 0
+    - index: 31
+      meshName: floor.002
+      meshGeometryBuffer: 0
+    - index: 32
+      meshName: lamp.002
+      meshGeometryBuffer: 0
+    - index: 33
+      meshName: lamp2.002
+      meshGeometryBuffer: 0
+    - index: 34
+      meshName: armoire.002
+      meshGeometryBuffer: 0
+    - index: 35
+      meshName: armoire 2.002
+      meshGeometryBuffer: 0
+    - index: 36
+      meshName: screen.002
+      meshGeometryBuffer: 0
+    - index: 37
+      meshName: radio.002
+      meshGeometryBuffer: 0
+    - index: 38
+      meshName: bouee safety 2.002
+      meshGeometryBuffer: 0
+    - index: 39
+      meshName: barre.002
+      meshGeometryBuffer: 0
+    - index: 40
+      meshName: gaz.002
+      meshGeometryBuffer: 0
+    - index: 41
+      meshName: tige gaz.002
+      meshGeometryBuffer: 0
+    - index: 42
+      meshName: persiennes D.002
+      meshGeometryBuffer: 0
+    - index: 43
+      meshName: Extruded.009
+      meshGeometryBuffer: 0
+    - index: 44
+      meshName: Extruded.010
+      meshGeometryBuffer: 0
+    - index: 45
+      meshName: Solid 715.002
+      meshGeometryBuffer: 0
+    - index: 46
+      meshName: Extruded.012
+      meshGeometryBuffer: 0
+    - index: 47
+      meshName: Solid 1078.002
+      meshGeometryBuffer: 0
+    - index: 48
+      meshName: bobonne.002
+      meshGeometryBuffer: 0
+    - index: 49
+      meshName: lock3.002
+      meshGeometryBuffer: 0
+    - index: 50
+      meshName: cable.010
+      meshGeometryBuffer: 0
+    - index: 51
+      meshName: cable.011
+      meshGeometryBuffer: 0
+    - index: 52
+      meshName: cable.012
+      meshGeometryBuffer: 0
+    - index: 53
+      meshName: cable.013
+      meshGeometryBuffer: 0
+    - index: 54
+      meshName: cable.014
+      meshGeometryBuffer: 0
+    - index: 55
+      meshName: projecteurs.002
+      meshGeometryBuffer: 0
+    - index: 56
+      meshName: antenne.002
+      meshGeometryBuffer: 0
+    - index: 57
+      meshName: hull.002
+      meshGeometryBuffer: 0
+    - index: 58
+      meshName: glass
+      meshGeometryBuffer: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  overrideDefaultPose: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    namedPoseList:
+    - name: Default
+      skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    defaultPoseIndex: -1
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

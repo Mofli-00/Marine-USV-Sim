@@ -40,7 +40,7 @@ git lfs pull
    ```Bash
    git branch
    ```
-   你会看到一列分支名，前面带 * 号且显示为绿色的那个，就是你当前所在的分支。
+   你会看到一列分支名，前面带 * 号且显示为绿色的那个，就是你当前所在的分支。（或者你可以填写HEAD代表当前分支）
 
    假设输出是 * feature-assets，那么你就写：git push origin feature-assets。
 

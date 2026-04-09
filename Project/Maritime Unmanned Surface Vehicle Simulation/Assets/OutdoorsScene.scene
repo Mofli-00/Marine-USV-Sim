@@ -920,6 +920,34 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6674f829377f2a349a4102a424d6e815, type: 3}
+--- !u!1 &403983470 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: ce1d392a134a5424f9345bbf7336e6f2,
+    type: 3}
+  m_PrefabInstance: {fileID: 1577374743}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &403983472
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 403983470}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2432090755550338912, guid: ce1d392a134a5424f9345bbf7336e6f2, type: 3}
 --- !u!1001 &415794734
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1797,8 +1825,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81af5d8f2d17dd34d86073b3d3778de0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxThrust: 700
-  turnTorque: 300
+  maxThrust: 1500
+  turnTorque: 500
   forwardKey: 119
   backwardKey: 115
   leftKey: 97
@@ -2880,7 +2908,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: ce1d392a134a5424f9345bbf7336e6f2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 403983472}
   m_SourcePrefab: {fileID: 100100000, guid: ce1d392a134a5424f9345bbf7336e6f2, type: 3}
 --- !u!1001 &1582340103
 PrefabInstance:

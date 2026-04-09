@@ -48,7 +48,7 @@ ModelImporter:
     tuanjieGIGenFacetNums: 12
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 2
     meshCompression: 0
     totalVerticesCount: 1524
     totalTrianglesCount: 1812
@@ -183,7 +183,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.02
     rootMotionBoneName: 
     defaultPoseIndex: -1
     hasTranslationDoF: 0

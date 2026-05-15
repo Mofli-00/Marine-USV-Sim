@@ -1,10 +1,10 @@
 Using pre-set license
 Built from 'tuanjie/1.8/staging' branch; Version is '2022.3.62t6 (f6c5a11f8fe3) revision 16172449'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 11  (10.0.26200) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 32373 MB
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'zh' Physical Memory: 65228 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-D:\Unity_Hub\tuanjie_hub\2022.3.62t6\Editor\Tuanjie.exe
+D:\Tuanjie\Editor\Tuanjie.exe
 -adb2
 -batchMode
 -noUpm
@@ -12,13 +12,13 @@ D:\Unity_Hub\tuanjie_hub\2022.3.62t6\Editor\Tuanjie.exe
 -name
 AssetImportWorker0
 -projectPath
-D:/Unity_Hub/projects/Marine-USV-Sim/Project/Maritime Unmanned Surface Vehicle Simulation
+D:/Github/2/Marine-USV-Sim/Project/Maritime Unmanned Surface Vehicle Simulation
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51888
-Successfully changed project path to: D:/Unity_Hub/projects/Marine-USV-Sim/Project/Maritime Unmanned Surface Vehicle Simulation
-D:/Unity_Hub/projects/Marine-USV-Sim/Project/Maritime Unmanned Surface Vehicle Simulation
+58750
+Successfully changed project path to: D:/Github/2/Marine-USV-Sim/Project/Maritime Unmanned Surface Vehicle Simulation
+D:/Github/2/Marine-USV-Sim/Project/Maritime Unmanned Surface Vehicle Simulation
 [Memory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -50,69 +50,73 @@ D:/Unity_Hub/projects/Marine-USV-Sim/Project/Maritime Unmanned Surface Vehicle S
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [23004]  Target information:
+Player connection [46404]  Target information:
 
-Player connection [23004]  * "[IP] 10.99.137.98 [Port] 0 [Flags] 2 [Guid] 3086005807 [EditorId] 3086005807 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-7JDLN1K1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [46404]  * "[IP] 10.85.90.186 [Port] 0 [Flags] 2 [Guid] 1650694223 [EditorId] 1650694223 [Version] 1048832 [Id] WindowsEditor(7,Levin) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [23004] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [23004] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [46404]  * "[IP] 172.18.32.1 [Port] 0 [Flags] 2 [Guid] 1650694223 [EditorId] 1650694223 [Version] 1048832 [Id] WindowsEditor(7,Levin) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [46404]  * "[IP] 172.18.0.1 [Port] 0 [Flags] 2 [Guid] 1650694223 [EditorId] 1650694223 [Version] 1048832 [Id] WindowsEditor(7,Levin) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [46404] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [46404] Host joined alternative multi-casting on [225.0.0.222:34997]...
 Input System module state changed to: Initialized.
 AS: AutoStreaming module initializing.
 [LiveLink] LiveLink library is loaded successfully. Initializing...
-InitScreenManager.Refreshing native plugins compatible for Editor in 16.28 ms, found 4 plugins.
+InitScreenManager.Refreshing native plugins compatible for Editor in 12.04 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.62t6 (f6c5a11f8fe3)
-[Subsystems] Discovering subsystems at path D:/Unity_Hub/tuanjie_hub/2022.3.62t6/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Unity_Hub/projects/Marine-USV-Sim/Project/Maritime Unmanned Surface Vehicle Simulation/Assets
+[Subsystems] Discovering subsystems at path D:/Tuanjie/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Github/2/Marine-USV-Sim/Project/Maritime Unmanned Surface Vehicle Simulation/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) Arc(TM) Graphics (ID=0x7d55)
+    Renderer: Intel(R) UHD Graphics (ID=0xa788)
     Vendor:   Intel
-    VRAM:     16186 MB
-    Driver:   32.0.101.5768
+    VRAM:     32614 MB
+    Driver:   32.0.101.7077
 Initialize mono
-Mono path[0] = 'D:/Unity_Hub/tuanjie_hub/2022.3.62t6/Editor/Data/Managed'
-Mono path[1] = 'D:/Unity_Hub/tuanjie_hub/2022.3.62t6/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'D:/Unity_Hub/tuanjie_hub/2022.3.62t6/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=0.0.0.0:56184
+Mono path[0] = 'D:/Tuanjie/Editor/Data/Managed'
+Mono path[1] = 'D:/Tuanjie/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Tuanjie/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=0.0.0.0:56768
 Begin MonoManager ReloadAssembly
 Registering precompiled tuanjie dll's ...
-Register platform support module: D:/Unity_Hub/tuanjie_hub/2022.3.62t6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002779 seconds.
-- Loaded All Assemblies, in  0.376 seconds
+Register platform support module: D:/Tuanjie/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003328 seconds.
+- Loaded All Assemblies, in  0.342 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.244 seconds
-Domain Reload Profiling: 620ms
-	BeginReloadAssembly (157ms)
+- Finished resetting the current domain, in  0.261 seconds
+Domain Reload Profiling: 602ms
+	BeginReloadAssembly (103ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (0ms)
-	RebuildCommonClasses (28ms)
-	RebuildNativeTypeToScriptingClass (11ms)
-	initialDomainReloadingComplete (49ms)
-	LoadAllAssembliesAndSetupDomain (131ms)
-		LoadAssemblies (157ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (50ms)
+	LoadAllAssembliesAndSetupDomain (143ms)
+		LoadAssemblies (102ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (129ms)
-			TypeCache.Refresh (127ms)
-				TypeCache.ScanAssembly (115ms)
+		AnalyzeDomain (142ms)
+			TypeCache.Refresh (140ms)
+				TypeCache.ScanAssembly (127ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (244ms)
+	FinalizeReload (261ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (201ms)
+		SetupLoadedEditorAssemblies (212ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (7ms)
-			SetLoadedEditorAssemblies (6ms)
+			SetLoadedEditorAssemblies (7ms)
 			RefreshPlugins (0ms)
 			BeforeProcessingInitializeOnLoad (2ms)
-			ProcessInitializeOnLoadAttributes (164ms)
-			ProcessInitializeOnLoadMethodAttributes (22ms)
+			ProcessInitializeOnLoadAttributes (161ms)
+			ProcessInitializeOnLoadMethodAttributes (35ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -121,49 +125,49 @@ Domain Reload Profiling: 620ms
 Worker process is ready to serve import requests
 Caller must complete domain reload
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.756 seconds
+- Loaded All Assemblies, in  0.739 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.884 seconds
-Domain Reload Profiling: 1641ms
-	BeginReloadAssembly (185ms)
+- Finished resetting the current domain, in  0.898 seconds
+Domain Reload Profiling: 1636ms
+	BeginReloadAssembly (132ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (4ms)
+		DisableScriptedObjects (5ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (22ms)
-	RebuildCommonClasses (27ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (33ms)
-	LoadAllAssembliesAndSetupDomain (502ms)
-		LoadAssemblies (404ms)
+		CreateAndSetChildDomain (20ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (526ms)
+		LoadAssemblies (325ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (232ms)
-			TypeCache.Refresh (198ms)
-				TypeCache.ScanAssembly (181ms)
-			ScanForSourceGeneratedMonoScriptInfo (23ms)
-			ResolveRequiredComponents (9ms)
-	FinalizeReload (885ms)
+		AnalyzeDomain (284ms)
+			TypeCache.Refresh (237ms)
+				TypeCache.ScanAssembly (220ms)
+			ScanForSourceGeneratedMonoScriptInfo (32ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (899ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (733ms)
+		SetupLoadedEditorAssemblies (709ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (5ms)
 			SetLoadedEditorAssemblies (3ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (56ms)
-			ProcessInitializeOnLoadAttributes (472ms)
-			ProcessInitializeOnLoadMethodAttributes (195ms)
-			AfterProcessingInitializeOnLoad (2ms)
+			BeforeProcessingInitializeOnLoad (70ms)
+			ProcessInitializeOnLoadAttributes (413ms)
+			ProcessInitializeOnLoadMethodAttributes (215ms)
+			AfterProcessingInitializeOnLoad (3ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (7ms)
-Refreshing native plugins compatible for Editor in 6.75 ms, found 4 plugins.
+		AwakeInstancesAfterBackupRestoration (23ms)
+Refreshing native plugins compatible for Editor in 4.38 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 6696 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 48 unused Assets / (3.6 MB). Loaded Objects now: 7195.
-Memory consumption went from 267.1 MB to 263.5 MB.
-Total: 5.131500 ms (FindLiveObjects: 0.363400 ms CreateObjectMapping: 0.619100 ms MarkObjects: 3.407300 ms  DeleteObjects: 0.739500 ms)
+Unloading 6698 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 48 unused Assets / (3.6 MB). Loaded Objects now: 7190.
+Memory consumption went from 266.7 MB to 263.1 MB.
+Total: 4.206300 ms (FindLiveObjects: 0.364000 ms CreateObjectMapping: 0.155300 ms MarkObjects: 3.125900 ms  DeleteObjects: 0.559300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -181,45 +185,40 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 569058.526382 seconds.
+  Time since last request: 1383.697295 seconds.
   path: Assets/New Terrain 1.asset
   artifactKey: Guid(7e255a104e2f1bc4d865519bb0c2bf48) Importer(PreviewImporter)
 Start importing Assets/New Terrain 1.asset using Guid(7e255a104e2f1bc4d865519bb0c2bf48) Importer(PreviewImporter) The tree coconut palm must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
-Launched and connected shader compiler TuanjieShaderCompiler.exe after 0.04 seconds
- -> (artifact id: 'ec0ec2496245a19e263ec31398c876e7') in 0.153245 seconds
-Number of asset objects unloaded after import = 45
+The tree 20250731_002_RC_LOD0 couldn't be instanced because the prefab contains no valid mesh renderer.
+Launched and connected shader compiler TuanjieShaderCompiler.exe after 0.08 seconds
+ -> (artifact id: '3e56cdac91f394647ada19709ad87f12') in 0.220798 seconds
+Number of asset objects unloaded after import = 53
 ========================================================================
 Received Import Request.
-  Time since last request: 18.818916 seconds.
-  path: Assets/Models/coconut-palm
-  artifactKey: Guid(01dc643684bc9954b9ebe333e739860b) Importer(PreviewImporter)
-Start importing Assets/Models/coconut-palm using Guid(01dc643684bc9954b9ebe333e739860b) Importer(PreviewImporter)  -> (artifact id: 'd95563d36888d569e7e9de152f5a8fba') in 0.000765 seconds
-Number of asset objects unloaded after import = 0
+  Time since last request: 381.296239 seconds.
+  path: Assets/Models/wreck-of-a-white-motorboat/textures/biely_cln_u1_v1_diffuse-denoise.jpeg
+  artifactKey: Guid(298d16fb6ea62ae49b2995a8b809eacc) Importer(PreviewImporter)
+Start importing Assets/Models/wreck-of-a-white-motorboat/textures/biely_cln_u1_v1_diffuse-denoise.jpeg using Guid(298d16fb6ea62ae49b2995a8b809eacc) Importer(PreviewImporter)  -> (artifact id: 'dbc7a8db8d9191da34e3f294d447b20e') in 0.056589 seconds
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 2.421625 seconds.
-  path: Assets/Models/coconut-palm/source
-  artifactKey: Guid(b7f15cc2c43399d4db0e2ea31a03ceb0) Importer(PreviewImporter)
-Start importing Assets/Models/coconut-palm/source using Guid(b7f15cc2c43399d4db0e2ea31a03ceb0) Importer(PreviewImporter)  -> (artifact id: '15d602241ebdffc16a3b78c1cf720c7a') in 0.001652 seconds
-Number of asset objects unloaded after import = 0
+  Time since last request: 0.000030 seconds.
+  path: Assets/Models/wreck-of-a-white-motorboat/textures/biely_cln_u2_v1_diffuse-sharpen.jpeg
+  artifactKey: Guid(754b4c39e25efb04ab289c14e5e075ec) Importer(PreviewImporter)
+Start importing Assets/Models/wreck-of-a-white-motorboat/textures/biely_cln_u2_v1_diffuse-sharpen.jpeg using Guid(754b4c39e25efb04ab289c14e5e075ec) Importer(PreviewImporter)  -> (artifact id: '52d73c5b32780081c9194ae9e5ac4459') in 0.030009 seconds
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 47.050616 seconds.
-  path: Assets/Models/rock-reef-and-beach/source/20250731_002_OUTPUT_LOD03
-  artifactKey: Guid(50acc9f4ec51dcc48a51fca80224e1a5) Importer(PreviewImporter)
-Start importing Assets/Models/rock-reef-and-beach/source/20250731_002_OUTPUT_LOD03 using Guid(50acc9f4ec51dcc48a51fca80224e1a5) Importer(PreviewImporter)  -> (artifact id: 'de8c61493fdfdb2a7e996983ae46dc49') in 0.000662 seconds
-Number of asset objects unloaded after import = 0
+  Time since last request: 496.896036 seconds.
+  path: Assets/Models/Grass.png
+  artifactKey: Guid(90b5382a5f0674a4ba704c8b6e4c99f0) Importer(PreviewImporter)
+Start importing Assets/Models/Grass.png using Guid(90b5382a5f0674a4ba704c8b6e4c99f0) Importer(PreviewImporter)  -> (artifact id: 'bdcd868908c19f8bf7eab544c38238df') in 0.067072 seconds
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 1.107371 seconds.
-  path: Assets/Models/rock-reef-and-beach/source/20250731_002_OUTPUT_LOD03/Island
-  artifactKey: Guid(6f67692692b64254f93650c3f9916800) Importer(PreviewImporter)
-Start importing Assets/Models/rock-reef-and-beach/source/20250731_002_OUTPUT_LOD03/Island using Guid(6f67692692b64254f93650c3f9916800) Importer(PreviewImporter)  -> (artifact id: 'bde603b3372f1d777237514dd34d502a') in 0.000465 seconds
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.118050 seconds.
-  path: Assets/Models/rock-reef-and-beach/source/20250731_002_OUTPUT_LOD03/Island/20250731_002_RC_LOD0.obj
-  artifactKey: Guid(228dbe075b5d9f44a9246f901565f4a6) Importer(PreviewImporter)
-Start importing Assets/Models/rock-reef-and-beach/source/20250731_002_OUTPUT_LOD03/Island/20250731_002_RC_LOD0.obj using Guid(228dbe075b5d9f44a9246f901565f4a6) Importer(PreviewImporter)  -> (artifact id: 'd6fff004f9b77da017de044381818e35') in 0.872295 seconds
-Number of asset objects unloaded after import = 65
+  Time since last request: 0.000023 seconds.
+  path: Assets/Models/LowPoly Grass.fbx
+  artifactKey: Guid(1bd489110ddef2743907b62a955e6903) Importer(PreviewImporter)
+Start importing Assets/Models/LowPoly Grass.fbx using Guid(1bd489110ddef2743907b62a955e6903) Importer(PreviewImporter) Launched and connected shader compiler TuanjieShaderCompiler.exe after 0.05 seconds
+ -> (artifact id: '6e451a1234565f7ceb82746c117f208b') in 5.922714 seconds
+Number of asset objects unloaded after import = 64

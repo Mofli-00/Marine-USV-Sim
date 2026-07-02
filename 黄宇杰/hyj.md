@@ -8,6 +8,9 @@
 
 **目标**：把原本用线框画出来的死地图，替换成能显示高空航拍画面的实景圆形地图。
 
+<img width="1024" height="639" alt="image" src="https://github.com/user-attachments/assets/e752c11c-3d91-45a2-a0e1-79cbc57c26b2" />
+
+
 * **初始状态**：挂载了 RenderTexture 的画布被挤压成了一条弯曲的细线。原因是父物体 `Map` 的 Mask（遮罩）使用的是原版赛道贴图 `RaceMap`。
 * **❌ 踩坑方案 1：使用 `slicedDot`**
 * *做法*：将遮罩模具替换为自带的 `slicedDot` 资产。

@@ -9,7 +9,7 @@ __The modifications we made:__
 - Modify the display of the mini-map (unfinished).
 
 __Downloadable project:__
-1. [BoatAttack.Mod](https://pan.quark.cn/s/5d472debb2a3?pwd=NKQj)
+1. [BoatAttack.Mod](https://pan.quark.cn/s/5d472debb2a3?pwd=NKQj)  
 *Unity Editor version: 6000.4.7f1*
 
 __Downloadable demo:__  

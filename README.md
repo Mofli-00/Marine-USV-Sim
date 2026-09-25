@@ -8,7 +8,9 @@ __The modifications we made:__
 - Modify the water surface effect and the boat physics system.
 - Modify the display of the mini-map (unfinished).
 
-The project will be uploaded as soon as possible.
+__Downloadable project:__
+1. [BoatAttack.Mod](https://pan.quark.cn/s/5d472debb2a3?pwd=NKQj)
+*Unity Editor version: 6000.4.7f1*
 
 __Downloadable demo:__  
 1. [BoatAttack.Mod_v0.1.0](https://github.com/Mofli-00/Marine-USV-Sim/releases/tag/v0.1.0)
